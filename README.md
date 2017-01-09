@@ -12,10 +12,10 @@
 
 ## Official resources
 
-* [Prometheus](https://prometheus.io/) - Official project website.
+* [Prometheus](https://prometheus.io/) - Official Prometheus project website.
 * [GitHub repo](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
-* [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/) - Official documentation.
-* [Prometheus Blog](https://prometheus.io/blog/) - Official blog.
+* [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
+* [Prometheus Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
 ## Tutorials
 
@@ -29,7 +29,7 @@
 
 ## Videos
 
-* [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) Devoxx Belgium - November 8, 2016 - Fabian Stäber.
+* [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx Belgium - November 8, 2016 - Fabian Stäber.
 
 ## Presentations
 
