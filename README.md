@@ -35,6 +35,10 @@
 
 ## Blogposts and opinions
 
+* [Prometheus: Monitoring at SoundCloud ](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) - Overview of Prometheus and first hand experience from Soundcloud.
+* [Prometheus: A Next-Generation Monitoring System](http://www.boxever.com/prometheus-a-next-generation-monitoring-system/) - First hand experiences using Prometheus from Boxever Tech.
+* [Monitor Docker Containers with Prometheus](http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/) - Using Prometheus to monitor Docker containers.
+
 ## Uncategorized
 
 ## License
