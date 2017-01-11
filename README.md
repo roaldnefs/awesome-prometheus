@@ -9,6 +9,7 @@
 - [Videos](#videos)
 - [Presentations](#presentations)
 - [Blogposts and opinions](#blogposts-and-opinions)
+- [Dashboards](#dashboards)
 - [Uncategorized](#uncategorized)
 
 ## Official resources
@@ -44,6 +45,12 @@
 * [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) - Part 3 in the sersie _Prometheus and Kubernetes_.
 
 ## Uncategorized
+
+## Dashboards
+
+* [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open source metric analytics & visualization suite _tutorial by Prometheus_.
+* [Grafana](http://docs.grafana.org/datasources/prometheus/) - Grafana is an open source metric analytics & visualization suite _tutorial by Grafana_.
+* [PromDash](https://prometheus.io/docs/visualization/promdash/) - Browser-based dashboard builder for Prometheus _tutorial by Prometheus_.
 
 ## License
 
