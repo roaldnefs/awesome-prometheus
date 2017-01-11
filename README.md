@@ -7,6 +7,7 @@
 - [Official resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Podcasts and interviews](#podcasts-and-interviews)
 - [Presentations](#presentations)
 - [Blogposts and opinions](#blogposts-and-opinions)
 - [Dashboards](#dashboards)
@@ -32,6 +33,11 @@
 ## Videos
 
 * [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx Belgium - November 8, 2016 - Fabian Stäber.
+
+## Podcasts and interviews
+
+* [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -  Julius Volz on the FLOSS Weekly TWiT.tv show.
+* [Prometheus and Service Monitoring ](https://changelog.com/podcast/168) - Julius Volz on the Changelog podcast.
 
 ## Presentations
 
