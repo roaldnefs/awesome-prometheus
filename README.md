@@ -33,6 +33,7 @@
 
 ## Videos
 
+* [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) - PromCon Berlin - August 25-26, 2016 - talk recordings from PromCon 2016 in Berlin.
 * [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx Belgium - November 8, 2016 - Fabian Stäber.
 
 ## Podcasts and interviews
@@ -58,6 +59,7 @@
 ## Uncategorized
 
 * [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
+* [PromCon](https://promcon.io/) - The Prometheus conference.
 
 ## Dashboards
 
