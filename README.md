@@ -29,6 +29,7 @@
 * [How To Query Prometheus on Ubuntu 14.04 Part 1](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-1) - Part 1 of 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Query Prometheus on Ubuntu 14.04 Part 2](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-2) - Part 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Add a Prometheus Dashboard to Grafana ](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
+* [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
 
 ## Videos
 
@@ -41,6 +42,10 @@
 
 ## Presentations
 
+* [Prometheus Overview](http://www.slideshare.net/brianbrazil/prometheus-overview) - The Promethean ideal of monitoring by Brian Brazil.
+* [System Monitoring with Prometheus](http://www.slideshare.net/brianbrazil/devops-ireland-systems-monitoring-with-prometheus) - Brian Brazil at Devops Ireland Meetup, Dublin.
+* [OMG! Prometheus](https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0) - Benjamin Staffin, Fitbit Site Operations, explains the case for Prometheus to his team.
+
 ## Blogposts and opinions
 
 * [Prometheus: Monitoring at SoundCloud ](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) - Overview of Prometheus and first hand experience from Soundcloud.
@@ -51,6 +56,8 @@
 * [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) - Part 3 in the series _Prometheus and Kubernetes_.
 
 ## Uncategorized
+
+* [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 
 ## Dashboards
 
