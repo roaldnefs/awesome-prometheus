@@ -11,6 +11,7 @@
 - [Presentations](#presentations)
 - [Blogposts and opinions](#blogposts-and-opinions)
 - [Dashboards](#dashboards)
+- [Exporters](#exporters)
 - [Uncategorized](#uncategorized)
 
 ## Official resources
@@ -57,16 +58,23 @@
 * [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) - Part 2 of 3 in the series _Prometheus and Kubernetes_.
 * [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) - Part 3 in the series _Prometheus and Kubernetes_.
 
-## Uncategorized
-
-* [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
-* [PromCon](https://promcon.io/) - The Prometheus conference.
-
 ## Dashboards
 
 * [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open source metric analytics & visualization suite _tutorial by Prometheus_.
 * [Grafana](http://docs.grafana.org/datasources/prometheus/) - Grafana is an open source metric analytics & visualization suite _tutorial by Grafana_.
 * [PromDash](https://prometheus.io/docs/visualization/promdash/) - Browser-based dashboard builder for Prometheus _tutorial by Prometheus_.
+
+## Exporters
+* [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**.
+* [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
+* [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**.
+* [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**.
+* [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
+
+## Uncategorized
+
+* [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
+* [PromCon](https://promcon.io/) - The Prometheus conference.
 
 ## License
 
