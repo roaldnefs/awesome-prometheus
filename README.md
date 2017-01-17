@@ -2,6 +2,8 @@
 
 > A curated list of awesome Prometheus resources, projects and tools.
 
+Prometheus is an open-source systems monitoring and alerting toolkit.
+
 ## Contents
 
 - [Official resources](#official-resources)
