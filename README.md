@@ -57,6 +57,7 @@
 * [Prometheus and Kubernetes: A Perfect Match](https://www.weave.works/prometheus-kubernetes-perfect-match/) - Part 1 of 3 in the series _Prometheus and Kubernetes_.
 * [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) - Part 2 of 3 in the series _Prometheus and Kubernetes_.
 * [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) - Part 3 in the series _Prometheus and Kubernetes_.
+* [Robust Perception](https://www.robustperception.io/tag/prometheus/) - Multiple blogposts about Prometheus by Brian Bazil.
 
 ## Dashboards
 
