@@ -61,6 +61,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) - Part 2 of 3 in the series _Prometheus and Kubernetes_.
 * [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) - Part 3 in the series _Prometheus and Kubernetes_.
 * [Robust Perception](https://www.robustperception.io/tag/prometheus/) - Multiple blogposts about Prometheus by Brian Bazil.
+* [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) - Initial experiences with the Prometheus by Grig Gheorghiu.
 
 ## Dashboards
 
