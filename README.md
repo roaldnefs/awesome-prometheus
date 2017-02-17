@@ -51,6 +51,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [Prometheus Overview](http://www.slideshare.net/brianbrazil/prometheus-overview) - The Promethean ideal of monitoring by Brian Brazil.
 * [System Monitoring with Prometheus](http://www.slideshare.net/brianbrazil/devops-ireland-systems-monitoring-with-prometheus) - Brian Brazil at Devops Ireland Meetup, Dublin.
 * [OMG! Prometheus](https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0) - Benjamin Staffin, Fitbit Site Operations, explains the case for Prometheus to his team.
+* [Deploying Prometheus](https://fosdem.org/2017/schedule/event/deploying_prometheus_at_wikimedia_foundation/attachments/slides/1773/export/events/attachments/deploying_prometheus_at_wikimedia_foundation/slides/1773/Prometheus_at_WMF_Fosdem_2017.pdf) - Filippo Giunchedi, WikiMedia Foundation at FOSDEM 2017.
 
 ## Blogposts and opinions
 
