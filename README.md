@@ -70,6 +70,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 * [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open source metric analytics & visualization suite _tutorial by Prometheus_.
 * [Grafana](http://docs.grafana.org/datasources/prometheus/) - Grafana is an open source metric analytics & visualization suite _tutorial by Grafana_.
+* [Prometheus Monitoring with Grafana](http://logz.io/blog/prometheus-monitoring/) - Prometheus Monitoring with Grafana _tutorial by logz.io_.
 * [PromDash](https://prometheus.io/docs/visualization/promdash/) - Browser-based dashboard builder for Prometheus _tutorial by Prometheus_.
 
 ## Exporters
