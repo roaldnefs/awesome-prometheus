@@ -66,6 +66,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) - Initial experiences with the Prometheus by Grig Gheorghiu.
 * [Solving Monitoring in the Cloud With Prometheus](https://www.linux.com/blog/event/cloud-native-europe/2017/3/solving-monitoring-cloud-prometheus) - Interview with Brian Bazil by Linux.com.
 * [Monitor your applications with Prometheus](http://blog.alexellis.io/prometheus-monitoring/) - Monitor your applications with Prometheus by Alex Ellis.
+* [Practical Services Monitoring with Prometheus and Docker](https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603) - Practical services monitoring with Prometheus and Docker by Simon KP.
 
 ## Dashboards
 
