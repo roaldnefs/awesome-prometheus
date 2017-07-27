@@ -13,7 +13,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Videos](#videos)
 - [Podcasts and interviews](#podcasts-and-interviews)
 - [Presentations](#presentations)
-- [Blogposts and opinions](#blogposts-and-opinions)
+- [Blog posts and opinions](#blog-posts-and-opinions)
 - [Dashboards](#dashboards)
 - [Exporters](#exporters)
 - [Uncategorized](#uncategorized)
@@ -58,7 +58,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [OMG! Prometheus](https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0) - Benjamin Staffin, Fitbit Site Operations, explains the case for Prometheus to his team.
 * [Deploying Prometheus](https://fosdem.org/2017/schedule/event/deploying_prometheus_at_wikimedia_foundation/attachments/slides/1773/export/events/attachments/deploying_prometheus_at_wikimedia_foundation/slides/1773/Prometheus_at_WMF_Fosdem_2017.pdf) - Filippo Giunchedi, WikiMedia Foundation at FOSDEM 2017.
 
-## Blogposts and opinions
+## Blog posts and opinions
 
 * [Prometheus: Monitoring at SoundCloud ](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) - Overview of Prometheus and first hand experience from Soundcloud.
 * [Prometheus: A Next-Generation Monitoring System](http://www.boxever.com/prometheus-a-next-generation-monitoring-system/) - First hand experiences using Prometheus from Boxever Tech.
