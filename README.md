@@ -50,6 +50,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 * [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -  Julius Volz on the FLOSS Weekly TWiT.tv show.
 * [Prometheus and Service Monitoring ](https://changelog.com/podcast/168) - Julius Volz on the Changelog podcast.
+* [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) - Brian Brazil on the Software Engineering Daily podcast.
 
 ## Presentations
 
