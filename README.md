@@ -38,7 +38,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 * [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 * [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
-* [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree.
+* [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
 
 ## Videos
 
