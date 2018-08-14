@@ -100,7 +100,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**.
 - [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**.
 - [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
-- [Redis Metrics Exporter](https://github.com/oliver006/redis_exporter) - Periodically scrapes redis server stats
+- [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats.
 
 ## Proxies
 
