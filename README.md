@@ -73,14 +73,12 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Blog posts and opinions
 
 - [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) - Overview of Prometheus and first hand experience from Soundcloud.
-- [Prometheus: A Next-Generation Monitoring System](http://www.boxever.com/prometheus-a-next-generation-monitoring-system/) - First hand experiences using Prometheus from Boxever Tech.
 - [Monitor Docker Containers with Prometheus](http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/) - Using Prometheus to monitor Docker containers.
 - [Prometheus and Kubernetes: A Perfect Match](https://www.weave.works/prometheus-kubernetes-perfect-match/) - Part 1 of 3 in the series _Prometheus and Kubernetes_.
 - [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) - Part 2 of 3 in the series _Prometheus and Kubernetes_.
 - [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) - Part 3 in the series _Prometheus and Kubernetes_.
 - [Robust Perception](https://www.robustperception.io/tag/prometheus/) - Multiple blogposts about Prometheus by Brian Bazil.
 - [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) - Initial experiences with the Prometheus by Grig Gheorghiu.
-- [Solving Monitoring in the Cloud With Prometheus](https://www.linux.com/blog/event/cloud-native-europe/2017/3/solving-monitoring-cloud-prometheus) - Interview with Brian Bazil by Linux.com.
 - [Monitor your applications with Prometheus](http://blog.alexellis.io/prometheus-monitoring/) - Monitor your applications with Prometheus by Alex Ellis.
 - [Practical Services Monitoring with Prometheus and Docker](https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603) - Practical services monitoring with Prometheus and Docker by Simon KP.
 - [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/) - Part 1 in the series _Prometheus Blog Series_ by Pierre Vincent.
