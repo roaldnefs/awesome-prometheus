@@ -101,6 +101,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats.
 - [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats.
 
+## AlertManager
+
+- [Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Common alerting rules in one single place.
+
 ## Proxies
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - forwards incoming requests to one of a set of multiple prometheus instances deployed as HA duplicates of each other using a selector strategy.
