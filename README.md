@@ -18,6 +18,8 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Dashboards](#dashboards)
 - [Exporters](#exporters)
 - [Alertmanager](#alertmanager)
+- [Proxies](#proxies)
+- [High Availability](#high-availability)
 - [Uncategorized](#uncategorized)
 
 ## Official resources
@@ -120,6 +122,11 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Proxies
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - forwards incoming requests to one of a set of multiple prometheus instances deployed as HA duplicates of each other using a selector strategy.
+
+## High Availability
+
+- [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+- [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
 ## Uncategorized
 
