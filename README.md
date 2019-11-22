@@ -125,8 +125,8 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## High Availability
 
-- [Cortex](https://github.com/cortexproject/cortex) Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
-- [Thanos](https://github.com/thanos-io/thanos) Highly available Prometheus setup with long term storage capabilities.
+- [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+- [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
 ## Uncategorized
 
