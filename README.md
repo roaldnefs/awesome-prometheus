@@ -15,6 +15,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Podcasts and interviews](#podcasts-and-interviews)
 - [Presentations](#presentations)
 - [Blog posts and opinions](#blog-posts-and-opinions)
+- [Deployment tools](#deployment-tools)
 - [Dashboards](#dashboards)
 - [Exporters](#exporters)
 - [Alertmanager](#alertmanager)
@@ -100,6 +101,14 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Horizontal Pod Autoscaling in Kubernetes with Prometheus](https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/) - Horizontal Pod Autoscaling in Kubernetes with Prometheus by Louise.
 - [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) - PromQL tutorial for beginners by Aliaksandr Valialkin.
 - [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) - Prometheus storage: technical terms for humans by Aliaksandr Valialkin.
+
+## Deployment tools
+
+- [Ansitheus - Ansible playbook to containerize, configure and deploy Prometheus ecosystem](https://github.com/ntk148v/ansitheus)
+- [Ernestas Poskus's Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway](https://github.com/ernestas-poskus/ansible-prometheus)
+- [Cloudalchemy's ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus)
+- [Google Cloud Platform click-to-deploy Prometheus stack](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus)
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator)
 
 ## Dashboards
 
