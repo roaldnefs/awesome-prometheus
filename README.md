@@ -138,7 +138,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
-- [Official prometheus demo site](https://demo.do.prometheus.io) - Prometheus site managed with cloudalchemy ansible roles running every day using configuration from [prometheus repository](https://github.com/prometheus/demo-site).
+- [Official Prometheus demo site](https://demo.do.prometheus.io) - Prometheus site managed with Cloud Alchemy Ansible roles running every day using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## License
 
