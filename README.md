@@ -8,20 +8,23 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Contents
 
-- [Official resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts and interviews](#podcasts-and-interviews)
-- [Presentations](#presentations)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Deployment tools](#deployment-tools)
-- [Dashboards](#dashboards)
-- [Exporters](#exporters)
-- [Alertmanager](#alertmanager)
-- [Proxies](#proxies)
-- [High Availability](#high-availability)
-- [Uncategorized](#uncategorized)
+- [Awesome Prometheus  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-prometheus-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Podcasts and interviews](#podcasts-and-interviews)
+  - [Presentations](#presentations)
+  - [Blog posts and opinions](#blog-posts-and-opinions)
+  - [Deployment tools](#deployment-tools)
+  - [Dashboards](#dashboards)
+  - [Exporters](#exporters)
+  - [Alertmanager](#alertmanager)
+  - [Proxies](#proxies)
+  - [High Availability](#high-availability)
+  - [Uncategorized](#uncategorized)
+  - [License](#license)
 
 ## Official resources
 
@@ -104,11 +107,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Deployment tools
 
-- [Ansitheus - Ansible playbook to containerize, configure and deploy Prometheus ecosystem](https://github.com/ntk148v/ansitheus)
-- [Ernestas Poskus's Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway](https://github.com/ernestas-poskus/ansible-prometheus)
-- [Cloudalchemy's ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus)
-- [Google Cloud Platform click-to-deploy Prometheus stack](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus)
-- [Prometheus Operator](https://github.com/coreos/prometheus-operator)
+- [Ansitheus](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem _by ntk148v_.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway _by Ernestas Poskus_.
+- [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace _by GoogleCloudPlatform_.
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes _by CoreOS_.
 
 ## Dashboards
 
