@@ -8,23 +8,20 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Contents
 
-- [Awesome Prometheus  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-prometheus-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
-  - [Contents](#contents)
-  - [Official resources](#official-resources)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
-  - [Videos](#videos)
-  - [Podcasts and interviews](#podcasts-and-interviews)
-  - [Presentations](#presentations)
-  - [Blog posts and opinions](#blog-posts-and-opinions)
-  - [Deployment tools](#deployment-tools)
-  - [Dashboards](#dashboards)
-  - [Exporters](#exporters)
-  - [Alertmanager](#alertmanager)
-  - [Proxies](#proxies)
-  - [High Availability](#high-availability)
-  - [Uncategorized](#uncategorized)
-  - [License](#license)
+- [Official resources](#official-resources)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Videos](#videos)
+- [Podcasts and interviews](#podcasts-and-interviews)
+- [Presentations](#presentations)
+- [Blog posts and opinions](#blog-posts-and-opinions)
+- [Deployment tools](#deployment-tools)
+- [Dashboards](#dashboards)
+- [Exporters](#exporters)
+- [Alertmanager](#alertmanager)
+- [Proxies](#proxies)
+- [High Availability](#high-availability)
+- [Uncategorized](#uncategorized)
 
 ## Official resources
 
