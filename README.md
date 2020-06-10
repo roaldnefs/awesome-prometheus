@@ -29,6 +29,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 - [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
+- [Demo site](https://demo.do.prometheus.io) - Official prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
 
@@ -105,6 +106,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Deployment tools
 
 - [Ansitheus](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem _by ntk148v_.
+- [Cloud Alchemy ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage prometheus, alertmanager, grafana, and commond prometheus exporters.
 - [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway _by Ernestas Poskus_.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace _by GoogleCloudPlatform_.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes _by CoreOS_.
@@ -127,6 +129,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Alertmanager
 
+- [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and grafana dashboards.
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 - [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
@@ -146,7 +149,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
-- [Official Prometheus demo site](https://demo.do.prometheus.io) - Prometheus site managed with Cloud Alchemy Ansible roles running every day using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
+
 
 ## License
 
