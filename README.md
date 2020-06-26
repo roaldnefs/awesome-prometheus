@@ -29,7 +29,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 - [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
-- [Demo site](https://demo.do.prometheus.io) - Official prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
+- [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
 
