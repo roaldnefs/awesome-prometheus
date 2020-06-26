@@ -129,7 +129,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Alertmanager
 
-- [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and grafana dashboards.
+- [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 - [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
