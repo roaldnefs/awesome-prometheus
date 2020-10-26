@@ -139,6 +139,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - forwards incoming requests to one of a set of multiple prometheus instances deployed as HA duplicates of each other using a selector strategy.
 - [Promxy](https://github.com/jacksontj/promxy) - deduplicates data from Prometheus HA pairs.
+- [Trickster](https://github.com/tricksterproxy/trickster) - an HTTP reverse proxy/cache for http applications and a dashboard query accelerator for time series databases.
 
 ## High Availability
 
