@@ -21,6 +21,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Alertmanager](#alertmanager)
 - [Proxies](#proxies)
 - [High Availability](#high-availability)
+- [Doc generators](#doc-generators)
 - [Uncategorized](#uncategorized)
 
 ## Official resources
