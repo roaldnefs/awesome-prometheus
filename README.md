@@ -141,6 +141,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Promxy](https://github.com/jacksontj/promxy) - deduplicates data from Prometheus HA pairs.
 - [Trickster](https://github.com/tricksterproxy/trickster) - an HTTP reverse proxy/cache for http applications and a dashboard query accelerator for time series databases.
 - [exporter_proxy](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
+- [PromQL Guard](https://github.com/kfdm/promql-guard) - provides a thin proxy on top of Prometheus, that allows us to inspect and re-write promql queries, so that a tenant can only see the data we allow, even when using a shared Prometheus server.
 
 ## High Availability
 
@@ -148,6 +149,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [M3DB](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
+
+## Doc generators
+
+- [py-prometheus-metric-report](https://github.com/amadeuszkryze/py-prometheus-metric-report) - script to create pdf report of available metrics, their descriptions, apperance nad many others.
 
 ## Uncategorized
 
