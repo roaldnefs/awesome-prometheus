@@ -120,6 +120,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Exporters
 
+- [exporterhub.io](https://exporterhub.io) - This is a Web-service for Curated expoter lists
 - [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**.
 - [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**.
