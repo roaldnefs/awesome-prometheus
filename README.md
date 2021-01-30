@@ -18,6 +18,11 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Deployment tools](#deployment-tools)
 - [Dashboards](#dashboards)
 - [Exporters](#exporters)
+    - [Databases](#databases)
+    - [Hardware related](#hardware-related)
+    - [HTTP](#http)
+    - [Other monitoring systems](#other-monitoring-systems)
+    - [Miscellaneous](#miscellaneous)
 - [Alertmanager](#alertmanager)
 - [Proxies](#proxies)
 - [High Availability](#high-availability)
@@ -110,15 +115,30 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Prometheus Monitoring with Grafana](http://logz.io/blog/prometheus-monitoring/) - Prometheus Monitoring with Grafana _tutorial by logz.io_.
 
 ## Exporters
-- [ExporterHub.io](https://exporterhub.io) - A curated list of Prometheus exporters.
-- [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**.
-- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
-- [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**.
-- [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**.
-- [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
-- [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats.
-- [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats.
-- [MongoDB Exporter](https://github.com/percona/mongodb_exporter) - The MongoDB exporter periodically scrapes MongoDB server stats.
+The lists below contain all the official Prometheus exporters that are maintained by the [Prometheus GitHub organization](https://github.com/prometheus). For a complete list of exporters including any non-official exporters see [prometheus.io](https://prometheus.io/docs/instrumenting/exporters/) or [exporterhub.io](https://exporterhub.io) for a curated list of Prometheus exporters.
+
+### Databases
+- [Consol exporter](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
+- [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
+- [MySQL server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
+
+### Hardware related
+- [Node/system metrics exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
+
+### HTTP
+- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats.
+
+### Other monitoring systems
+- [AWS CloudWatch exporter](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
+- [Collectd exporter](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
+- [Graphite exporter](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
+- [InfluxDB](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
+- [JMX exporter](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
+- [SNMP exporter](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
+- [StatsD exporter](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
+
+### Miscellaneous
+- [Blackbox](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
 ## Alertmanager
 - [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
