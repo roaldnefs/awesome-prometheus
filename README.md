@@ -26,6 +26,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Alertmanager](#alertmanager)
 - [Proxies](#proxies)
 - [High Availability](#high-availability)
+- [Doc generators](#doc-generators)
 - [Uncategorized](#uncategorized)
 
 ## Official resources
@@ -157,6 +158,10 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [M3DB](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
+
+## Doc generators
+
+- [py-prometheus-metric-report](https://github.com/amadeuszkryze/py-prometheus-metric-report) - Script to create pdf report of available metrics, their descriptions, apperance nad many others.
 
 ## Uncategorized
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
