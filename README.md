@@ -160,7 +160,6 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ## Doc generators
-
 - [py-prometheus-metric-report](https://github.com/amadeuszkryze/py-prometheus-metric-report) - Script to create pdf report of available metrics, their descriptions, apperance nad many others.
 
 ## Uncategorized
