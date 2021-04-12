@@ -151,7 +151,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [Promxy](https://github.com/jacksontj/promxy) - Deduplicates data from Prometheus HA pairs.
 - [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
 - [exporter_proxy](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
-- [PromQL Guard](https://github.com/kfdm/promql-guard) - provides a thin proxy on top of Prometheus, that allows us to inspect and re-write promql queries, so that a tenant can only see the data we allow, even when using a shared Prometheus server.
+- [PromQL Guard](https://github.com/kfdm/promql-guard) - Provides a thin proxy on top of Prometheus, that allows us to inspect and re-write promql queries, so that a tenant can only see the data we allow, even when using a shared Prometheus server.
 
 ## High Availability
 - [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
