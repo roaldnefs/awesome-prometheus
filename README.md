@@ -105,7 +105,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) - Addressing alert flapping and duplicates in Alertmanager by [Ali Sattari](https://github.com/ali-sattari).
 - [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) - Contributing to Prometheus by Atibhi Agrawal.
 - [Simple Prometheus queries for metrics inspection](https://mkaz.me/blog/2023/simple-prometheus-queries-for-metrics-inspection/) - Overview of PromQL queries that help to identify high cardinality metrics by Michal Kazmierczak.
-- [Learn Prometheus (Visually)](https://pagertree.com/learn/prometheus) - A beginner-focused high-level overview of all the major components of Prometheus (including architecture, data model, metric types, and PromQL) and how they all fit together. Lots of high-quality images, examples, and resources.
+- [Learn Prometheus](https://pagertree.com/learn/prometheus) - A crash course of Prometheus by PagerTree LLC.
 
 ## Deployment tools
 - [Ansitheus](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem _by ntk148v_.
