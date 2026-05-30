@@ -163,5 +163,6 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ## Uncategorized
+- [Attune](https://github.com/attune-io/attune) - Kubernetes operator for in-place pod resource right-sizing using Prometheus metrics. Safe VPA replacement with auto-revert, graduated rollout modes, and HPA coexistence.
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
