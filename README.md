@@ -147,6 +147,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 ## Alertmanager
 - [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+- [Jarvis](https://github.com/kj187/jarvis) - Web frontend for Prometheus Alertmanager with persistent alert history, claiming, comments, silences, multi-cluster support, and optional OIDC authentication.
 - [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## Proxies
