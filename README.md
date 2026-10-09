@@ -148,6 +148,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 - [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+- [Prometheus Alert Rules & Runbooks](https://github.com/Fractal-Techware/prometheus-alert-rules) - Alert rules with a runbook for each, proven by promtool unit tests.
 
 ## Proxies
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.
